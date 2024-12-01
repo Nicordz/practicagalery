@@ -60,7 +60,7 @@ nav ul li a:hover {
     height: 200px;
     transform-style: preserve-3d;
     animation: rotate 30s linear infinite;
-    margin-top: 150px;
+    margin-top: 250px;
     margin-bottom: 100px;
 }
 
